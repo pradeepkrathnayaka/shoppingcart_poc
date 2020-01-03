@@ -3,7 +3,7 @@
 ## Back-end
 
 ## Front-end
-Angular 8
+Angular 8, RxJS ,Ivy
 TypeScript
 JavaScript
 Bootstrap 4.4.1
